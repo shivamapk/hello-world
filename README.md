@@ -2,6 +2,6 @@
 This is my first repository on github.
 Hello my name is shivam and i am from India.
 I am a student an this is my first commit.
-This is the second time I am participating in Hacktoberfest 2021.
+This is the third time I am participating in Hacktoberfest 2022.
 I am very excited and want to learn how to make a pull request.
 So this is a sample PR and easy to learn as a beginner.
